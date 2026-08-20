@@ -1,4 +1,4 @@
-# Spartacus Proxy DLL Builder (Go + MSVC)
+# Spartacus Proxy DLL Maker (Go + MSVC)
 
 This Go script automates the generation and compilation of x64 proxy DLL projects with [Spartacus](https://github.com/Accenture/Spartacus) and the Microsoft C/C++ build tools.
 
